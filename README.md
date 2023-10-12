@@ -24,7 +24,7 @@ Create myfile_ex.nc with various useful variables (total wind speed, PV, pot tem
 Create myfile_ss.nc with various useful variables for supersonic flow (Mach number, speed of sound, eta ...)  
    
 ### CreateVenus_tt.py myfile.nc  
-Transform myfile_tt.nc on time axis to myfile_tt.nc on a local time axis.  
+Transform myfile.nc on time axis to myfile_tt.nc on a local time axis.  
 It can give more information and is more vestaile than the IPSL Fortran tool localtime.F90  
   
   
