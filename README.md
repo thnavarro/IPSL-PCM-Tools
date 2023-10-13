@@ -20,7 +20,7 @@ Create myfile_airglow3.nc containing airglow variables.
 
 ### createVenus_AS.py
 Transform myfile.nc on a (lat ; lon) grid to myfile_AS.nc on a (angle to SS point ; azimuth to SS point) grid.  
-Useful for suboslar-to-antisubsolar flow. 
+Useful for subsolar-to-antisubsolar flow. 
 
 ### createVenus_ex.py
 Create myfile_ex.nc with various useful variables (total wind speed, PV, pot temp, etc ...)  
